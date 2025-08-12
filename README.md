@@ -31,7 +31,7 @@ The following ERD (Entity-Relationship Diagram) represents the database schema f
 for better view checkout the link
 https://app.eraser.io/workspace/bWLA4QksRyxmM37FYtaP?origin=share
 
-####Assumptions 
+#### Assumptions 
 The database schema design was based on interpreting the high-level requirements and filling in the details.
 
 Low Stock Thresholds: I assumed the low-stock threshold varies by product type, leading to the creation of a dedicated 
