@@ -28,6 +28,9 @@ The following ERD (Entity-Relationship Diagram) represents the database schema f
 
 <img width="720" height="692" alt="image" src="https://github.com/user-attachments/assets/533bb133-8f13-40a8-b931-cc0e858e1239" />
 
+for better view checkout the link
+https://app.eraser.io/workspace/bWLA4QksRyxmM37FYtaP?origin=share
+
 ####Assumptions 
 The database schema design was based on interpreting the high-level requirements and filling in the details.
 
