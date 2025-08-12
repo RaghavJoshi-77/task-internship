@@ -5,7 +5,8 @@
 This document presents the solution for the Bynry Inc. Backend Developer Case Study, focusing on database design in ERD format and API implementation using Express.js and Prisma ORM.
 
 -----
-
+### Part 1:
+I dont use python for backend so i have no idea what syntax errors are in this my primary tech stack in next js 
 ### Part 2: Database Design (ERD Format)
 
 The following ERD (Entity-Relationship Diagram) represents the database schema for the StockFlow platform. The design meets the provided requirements while also accounting for necessary assumptions and relationships.
